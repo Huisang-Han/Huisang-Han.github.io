@@ -1,3 +1,10 @@
 html{
-    background-color: aqua;
+    background-color:lightskyblue;
+}
+p{
+    font-family: monospace;
+    text-align: center;
+    font-size:20px;
+    color:bisque;
+
 }
